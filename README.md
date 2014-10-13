@@ -8,6 +8,7 @@ Writing it down mostly for myself (hate to keep track of these in twitter favori
 # To Read
 
 ## Introductory
+* [Rust documentation index](http://doc.rust-lang.org)
 * [The Rust Guide](http://doc.rust-lang.org/guide.html)
   * and it's predecessor [Rust for Rubyists](http://www.rustforrubyists.com)
 * [A Fresh Look at Rust](http://lucumr.pocoo.org/2014/10/1/a-fresh-look-at-rust)
@@ -20,6 +21,9 @@ Writing it down mostly for myself (hate to keep track of these in twitter favori
 
 ## C Integration
 * [Bending the Curve: Writing Safe & Fast Native Gems With Rust](http://blog.skylight.io/bending-the-curve-writing-safe-fast-native-gems-with-rust/)
+
+## Concurrency
+* [Rust 0.12 has been released!](http://www.reddit.com/r/programming/comments/2irx6d/rust_012_has_been_released/cl54xpv)
   
 # To watch
 * ["Rust for Rubyists"](https://www.youtube.com/watch?v=Q5MLIY1oa1s) - Rubyc 2014 by [@steveklabnick](https://twitter.com/steveklabnik)
